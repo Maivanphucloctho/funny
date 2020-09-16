@@ -32,6 +32,7 @@
 	,''
 	,''
 	]
+alert('hello')
 	/*,'','Vova phải trông em cho bố mẹ đi xuống phố mua sắm, cậu đành phải cho em theo đi câu cá. Tối hôm đó, cậu dằn dỗi với mẹ:- Từ nay con không cho em đi câu nữa đâu. Chỉ mất công, chả được con cá nào!- Ồ! Nó quấy khóc làm cá sợ phải không? Lần sau em sẽ quen, thôi không khóc nữa.- Không phải thế! Em đã ăn hết mồi câu của con.'
 	,'Vô Va Và Thầy Giáo Dự Giờ','Trong giờ học cô giáo đang giảng bài về con cò và con gấu. Để mở đầu cô giáo hỏi học sinh:- cô hỏi cả lớp con gì biết bay nè!Mọi cánh tay đều giơ lên trong đó có vova là giơ cao nhất và chưa đợi cô mời cu cậu đã đứng phắt lên trả lời :-Thưa cô là con chim ạ .Không đúng ý cô, cô hơi bực:-Em nghĩ vậy nhưng cô nghĩ khác, cô nghĩ đó là con cò .-Vậy các em cho cô biết con gì sống trong rừng có lông lá đầy mình ?Lại la vo-va:-Thưa cô đó là con khỉ ạ!Lần này thì cô giáo bực thiệt rồi:-Em nghĩ vậy nhưng cô nghĩ là con gấu. Các em còn muốn hỏi gì nữa không ?Lại cu vova:-Thưa cô, vậy em đố cô chứ cái gì dài khoảng 10 cm, thụt ra thụt vào mà phụ nữ rất thích?Cô giáo nghe xong đỏ cả mặt,liền mắng:-Vova đố bậy cô đuổi em ra khỏi lớp bây giờ.-Thưa cô cô nghĩ như thế nhưng theo em đó là……cây son môi!'
 	,'',''
